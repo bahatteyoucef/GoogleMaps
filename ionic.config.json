@@ -1,5 +1,7 @@
 {
   "name": "TestFiverr",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
